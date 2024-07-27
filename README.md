@@ -42,9 +42,10 @@ Jeel Savsani, Prakrut Moon, Yanshik Jada, Yash Dodiya, Arnav Deshpande
 
 
 
-## Demo Video
+## Demo Video and Report
 
-https://drive.google.com/file/d/1HtBseEKWRSSkWoOF55zxgdNTP_911rYC/view?usp=sharing 
+video link: https://drive.google.com/file/d/1HtBseEKWRSSkWoOF55zxgdNTP_911rYC/view?usp=sharing 
+Report link: https://docs.google.com/document/d/1wgHxrRYpgwQ7mu4dB4HXAwyy4bE5EsPIEki4E_haft0/edit?usp=sharing
 
 
 
